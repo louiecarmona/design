@@ -1,0 +1,130 @@
+.work_header_text_left{
+    text-align:left;
+}
+
+.work_header_height{
+    height:600px;
+    padding-top:290px;
+}
+
+.work_small_desc{
+    height:250px;
+    padding-top:50px;
+}
+
+.work_aeworld_bg{
+    background-color:#B27C3B;
+}
+
+
+
+.work_edge_bg{
+    background-color:#C2D381;
+}
+
+
+.work_ae_bg{
+    background-color:#ababab;
+}
+
+
+.work_duravit_bg{
+    background-color:#004990;
+}
+
+
+.work_cleantechs_bg{
+    background-color:#009E93;
+}
+
+
+.work_wardrobe_bg{
+    background-color:#652C90;
+}
+
+.work_black_edge_bg{
+    background-color:black;
+}
+
+.work_amed_bg{
+    background-color:#8CC63E;
+}
+
+
+.work_awraq_bg{
+    background-color:#8CC63E;
+}
+
+
+.work_dsa_bg{
+    background-color:#5c1734;
+}
+
+
+.work_mimas_bg{
+    background-color:#a41e25;
+}
+
+
+.work_butcher_bg{
+    background-color:#0B6151;
+}
+
+
+.work_kore_bg{
+    background-color:#652C90;
+}
+
+
+.work_stands_bg{
+    background-color:#004990;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Homepage - Work Section */
+
+
+.letter_spacing_custom1_5{
+    letter-spacing:1px;
+}
+
+.letter_spacing_custom1{
+    letter-spacing:1px;
+}
+
+
+.brief_work_info{
+    font-size:12px;
+    line-height:60px;
+    font-weight:500;
+    letter-spacing:.5px;
+}
+
+
+/* Arrow in the work section */
+
+.left, .right{
+    margin-top:150px;
+    width:30px;
+    height:30px;
+    transition:.5s;
+    box-shadow:-2px 2px 0 rgba(255,255,255,.5);
+}
+
+.left{
+    transform:rotate(45deg);
+}
+
+.right{
+    transform:rotate(225deg);
+}

@@ -1,0 +1,60 @@
+/******************************************************************
++ Overall Colors and Styles
+******************************************************************/
+html {
+	height:100%;
+}
+
+body {
+	margin:0;
+	padding:0;
+	width: 100%;
+	height:100%;
+	color:#1a1a1a;
+	background-color: #17181a;
+
+}
+
+body, td, th, textarea, input, select, pre {
+	font-family: 'Open Sans', sans-serif;
+	font-size:13px;
+}
+
+p, form, h1, h2, h3, h4, h5, h6,  ul, ol {
+	margin:0px;
+	padding:0px;
+}
+
+a img{
+	border:none;
+}
+
+a{
+	font-weight:800;
+	color:#000000;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#626366;
+}
+
+pre{
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+/******************************************************************
+ + FRONT AREA Styles
+******************************************************************/
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
