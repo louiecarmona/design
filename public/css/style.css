@@ -1253,6 +1253,14 @@ Resume Timeline
     opacity: 0;
 }
 
+.sikka_tt-overlay {
+    position: absolute;
+    background-color: rgba(186 , 32, 108, 0.95);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
 
 
 
@@ -1277,7 +1285,8 @@ Resume Timeline
 .stands_tt-overlay,
 .geahchangroup_tt-overlay,
 .wonder_garden_tt-overlay,
-.organic_kitchen_tt-overlay{
+.organic_kitchen_tt-overlay,
+.sikka_tt-overlay{
     -webkit-transition: all 400ms;
     -moz-transition: all 400ms;
     -o-transition: all 400ms;
@@ -1359,6 +1368,7 @@ Resume Timeline
 .portfolio:hover .stands_tt-overlay,
 .portfolio:hover .wonder_garden_tt-overlay,
 .portfolio:hover .organic_kitchen_tt-overlay,
+.portfolio:hover .sikka_tt-overlay,
 .portfolio:hover .links {
     opacity: 1;
     -webkit-transform: translate(0,0);
