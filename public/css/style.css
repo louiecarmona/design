@@ -1285,6 +1285,14 @@ Resume Timeline
     opacity: 0;
 }
 
+.fbma_tt-overlay {
+    position: absolute;
+    background-color: rgba(135, 25, 175, 0.95);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
 
 
 
@@ -1312,7 +1320,8 @@ Resume Timeline
 .sikka_tt-overlay,
 .mespon_tt-overlay,
 .dct_tt-overlay,
-.dubai_font_tt-overlay{
+.dubai_font_tt-overlay,
+.fbma_tt-overlay{
     -webkit-transition: all 400ms;
     -moz-transition: all 400ms;
     -o-transition: all 400ms;
@@ -1398,6 +1407,7 @@ Resume Timeline
 .portfolio:hover .mespon_tt-overlay,
 .portfolio:hover .dct_tt-overlay,
 .portfolio:hover .dubai_font_tt-overlay,
+.portfolio:hover .fbma_tt-overlay,
 .portfolio:hover .links {
     opacity: 1;
     -webkit-transform: translate(0,0);
