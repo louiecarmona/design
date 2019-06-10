@@ -1301,6 +1301,30 @@ Resume Timeline
     opacity: 0;
 }
 
+.dubai_mall_tt-overlay {
+    position: absolute;
+    background-color: rgba(85, 151, 236, 0.95);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+.dubai_marina_tt-overlay {
+    position: absolute;
+    background-color: rgba(196, 43, 57, 0.95);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+.lenovo_tt-overlay {
+    position: absolute;
+    background-color: rgba(94, 200, 55, 0.95);
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
 
 
 
@@ -1330,7 +1354,10 @@ Resume Timeline
 .dct_tt-overlay,
 .dubai_font_tt-overlay,
 .fbma_tt-overlay,
-.adnoc_tt-overlay{
+.adnoc_tt-overlay,
+.dubai_marina_tt-overlay,
+.lenovo_tt-overlay,
+.dubai_mall_tt-overlay{
     -webkit-transition: all 400ms;
     -moz-transition: all 400ms;
     -o-transition: all 400ms;
@@ -1418,6 +1445,9 @@ Resume Timeline
 .portfolio:hover .dubai_font_tt-overlay,
 .portfolio:hover .fbma_tt-overlay,
 .portfolio:hover .adnoc_tt-overlay,
+.portfolio:hover .dubai_mall_tt-overlay,
+.portfolio:hover .dubai_marina_tt-overlay,
+.portfolio:hover .lenovo_tt-overlay,
 .portfolio:hover .links {
     opacity: 1;
     -webkit-transform: translate(0,0);
