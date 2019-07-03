@@ -88,6 +88,8 @@
                   <ul class="nav navbar-nav navbar-right">
                       <li><a href="#home">Home</a></li>
                       <li><a href="#about">About</a></li>
+                      <li><a href="#resume">Resume</a></li>
+                      <li><a href="#skills">Skills</a></li>
                       <li><a href="#works">Works</a></li>
                       <li><a href="#contact">Contact</a></li>
                   </ul>
@@ -111,12 +113,10 @@
             </div>
             <ul>
               <li><strong>Name:</strong> Louie Carmona</li>
+              <li><strong>Nationality:</strong> Filipino</li>
               <li><strong>Mobile:</strong> +97150 451 7756</li>
               <li><strong>Email:</strong> louiecarmona@live.com</li>
-              <br />
-              <li><p>Senior 3D Graphic Designer with over 10 years of Dubai experience in the management of the complete design process, from conceptualization to delivery. Expert at interdepartmental coordination and communication. Skilled with 3D Design Softwares, Adobe Creative Suite (Illustrator, Photoshop, Indesign) and other Office applications. Able to stretch the boundaries of creative design to help client’s brands stand out.</p></li>
             </ul>
-
           </div>
         </div> <!-- col-md-4 -->
 
@@ -186,7 +186,296 @@
 
   <!-- Video Parallax Section End -->
 
+  
+  <!-- Resume Section ######################################################################################################### -->
+  <section id="resume" class="resume-section section-padding">
+      <div class="container">
+          <h2 class="section-title wow fadeInUp">Resume</h2>
 
+          <div class="row">
+              <div class="col-md-12">
+                  <div class="resume-title">
+                      <h3>Experience</h3>
+                  </div>
+                  <div class="resume">
+                      <ul class="timeline">
+
+                        <li>
+                            <div class="posted-date">
+                              <span class="month">2017-Present</span>
+                            </div><!-- /posted-date -->
+
+                            <div class="timeline-panel wow fadeInUp">
+                                <div class="timeline-content">
+                                    <div class="timeline-heading">
+                                        <h3>Senior 3D Graphic Designer</h3>
+                                        <span>CUSTARD EVENTS - Jumeirah Lakes Towers, Dubai UAE</span>
+                                    </div><!-- /timeline-heading -->
+
+                                    <div class="timeline-body">
+                                        <p>Conceptualize and design event proposals.</p>
+                                        <p>3D modeling, texturing and rendering scenes needed for the proposal.</p>
+                                        <p>Creating realistic walkthroughs and still 3D rendered graphics.</p>
+                                        <p>Study client’s brand for correct application to various design assests.</p>
+                                        <p>Provide technical specifications of the design for production purposes.</p>
+                                        <p>Working directly with project managers to ensure correct design is submitted.</p>
+                                        <p>Dealing with the clients for various projects description.</p>
+                                        <p>Ensuring that all design are compliant with client’s standards.</p>
+                                        <p>Provide logo design, branding and layout design.</p>
+                                        <p>HTML pages & email design for mass mailing.</p>
+                                    </div><!-- /timeline-body -->
+                                </div> <!-- /timeline-content -->
+                            </div><!-- /timeline-panel -->
+                        </li>
+
+                          <li class="timeline-inverted">
+                              <div class="posted-date">
+                                <span class="month">2010-2017</span>
+                              </div><!-- /posted-date -->
+
+                              <div class="timeline-panel wow fadeInUp">
+                                  <div class="timeline-content">
+                                      <div class="timeline-heading">
+                                          <h3>Graphic Designer Digital, 3D &amp; Designer</h3>
+                                          <span>AMED ADVERTISING - Business Bay, Dubai UAE</span>
+                                      </div><!-- /timeline-heading -->
+
+                                      <div class="timeline-body">
+                                          <p>Visualize &amp; design 3d models/mockups for exhibitions and events.</p>
+                                          <p>Created the magazine template from cover to cover for the company.</p>
+                                          <p>Created the corresponding website of the magazines.</p>
+                                          <p>Designs and layout magazine pages and covers for the company.</p>
+                                          <p>Designs and develops logos, applies to all the collaterals needed.</p>
+                                          <p>Maintains and updates websites on regular basis.</p>
+                                          <p>Ensure delivery of high standard of work on time/within deadline.</p>
+                                          <p>Responsible for all I.T. administration and related support needed in the company.</p>
+                                          <p>Established the creative department of the company and hired key people for it.</p>
+                                          <p>Supervision and management of the creative design team.</p>
+                                      </div><!-- /timeline-body -->
+                                  </div> <!-- /timeline-content -->
+                              </div> <!-- /timeline-panel -->
+                          </li>
+
+                          <li>
+                              <div class="posted-date">
+                                <span class="month">2006-2010</span>
+                              </div><!-- /posted-date -->
+
+                              <div class="timeline-panel wow fadeInUp">
+                                  <div class="timeline-content">
+                                      <div class="timeline-heading">
+                                          <h3>Magazine Graphic Designer &amp; Web Administrator</h3>
+                                          <span>PROJECT DUBAI - Internet City, Dubai UAE</span>
+                                      </div><!-- /timeline-heading -->
+
+                                      <div class="timeline-body">
+                                          <p>Design pages and covers for the company’s magazines - PROPERTY GUIDE</p>
+                                          <p>Designs marketing collaterals for the company and its clients.</p>
+                                          <p>Designs and develops logos, with application to all collaterals required.</p>
+                                          <p>Designs, develops, maintains and updates the company’s websites.</p>
+                                          <p>Responsible for all I.T. administration and related support needed.</p>
+                                      </div><!-- /timeline-body -->
+                                  </div> <!-- /timeline-content -->
+                              </div><!-- /timeline-panel -->
+                          </li>
+
+                          <li class="timeline-inverted">
+                              <div class="posted-date">
+                                <span class="month">2003-2006</span>
+                              </div><!-- /posted-date -->
+
+                              <div class="timeline-panel wow fadeInUp">
+                                  <div class="timeline-content">
+                                      <div class="timeline-heading">
+                                          <h3>Graphic Designer / Web Designer</h3>
+                                          <span>DotCom Systems - Sheikh Zayed Road, Dubai UAE</span>
+                                      </div><!-- /timeline-heading -->
+
+                                      <div class="timeline-body">
+                                          <p>Designs branding marketing collaterals for the company and its clients.</p>
+                                          <p>Designs and develops logos, with application to all collaterals required.</p>
+                                          <p>Maintains and updates websites.</p>
+                                      </div><!-- /timeline-body -->
+                                  </div> <!-- /timeline-content -->
+                              </div> <!-- /timeline-panel -->
+                          </li>
+
+                      </ul>
+                  </div>
+              </div>
+          </div><!-- /row -->
+
+          <div class="row">
+              <div class="col-md-12">
+                  <div class="resume-title">
+                      <h3>Education</h3>
+                  </div>
+                  <div class="resume">
+                      <ul class="timeline">
+                          <li>
+                              <div class="posted-date">
+                                  <span class="month">2000-2001</span>
+                              </div><!-- /posted-date -->
+
+                              <div class="timeline-panel wow fadeInUp">
+                                  <div class="timeline-content">
+                                      <div class="timeline-heading">
+                                          <h3>Website Design and Development</h3>
+                                          <span>STI COLLEGE - Philippines</span>
+                                      </div><!-- /timeline-heading -->
+
+                                      <div class="timeline-body">
+                                          <p>STI College, formerly known as Systems Technology Institute, is the largest network of for-profit information technology based colleges in the Philippines.</p>
+                                      </div><!-- /timeline-body -->
+                                  </div> <!-- /timeline-content -->
+                              </div><!-- /timeline-panel -->
+                          </li>
+
+                          <li class="timeline-inverted">
+                              <div class="posted-date">
+                                  <span class="month">1995-2000</span>
+                              </div><!-- /posted-date -->
+
+                              <div class="timeline-panel wow fadeInUp">
+                                  <div class="timeline-content">
+                                      <div class="timeline-heading">
+                                          <h3>Bachelor of Science in Computer Science</h3>
+                                          <span>LYCEUM OF BATANGAS - Philippines</span>
+                                      </div><!-- /timeline-heading -->
+
+                                      <div class="timeline-body">
+                                          <p>LPU- Batangas is now an Autonomous University- the first tertiary educational institution in the region to receive this award from the Commission on Higher Education (CHED). This autonomous status, which is the highest and most prestigious recognition given by CHED, is a recognition of the quality education that LPU-Batangas provides as a result of its strong accreditation thrust alongside its international quality assurance system.</p>
+                                      </div><!-- /timeline-body -->
+                                  </div> <!-- /timeline-content -->
+                              </div> <!-- /timeline-panel -->
+                          </li>
+
+
+                      </ul>
+                  </div>
+              </div>
+          </div><!-- /row -->
+
+      </div><!-- /.container -->
+  </section><!-- End Resume Section -->
+
+
+  <!-- Skills Section ######################################################################################################### -->
+  <section id="skills" class="skills-section section-padding">
+    <div class="container">
+      <h2 class="section-title wow fadeInUp">Skills</h2>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="skill-progress">
+            <div class="skill-title"><h3>3D Modeling</h3></div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" ><span>90%</span>
+              </div>
+            </div><!-- /.progress -->
+          </div><!-- /.skill-progress -->
+
+          <div class="skill-progress">
+            <div class="skill-title"><h3>Layout Design</h3></div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" ><span>100%</span>
+              </div>
+            </div><!-- /.progress -->
+          </div><!-- /.skill-progress -->
+          <div class="skill-progress">
+            <div class="skill-title"><h3>Branding</h3></div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><span>95%</span>
+              </div>
+            </div><!-- /.progress -->
+          </div><!-- /.skill-progress -->
+        </div><!-- /.col-md-6 -->
+
+        <div class="col-md-6">
+          <div class="skill-progress">
+            <div class="skill-title"><h3>IT Admin</h3></div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" ><span>80%</span>
+              </div>
+            </div><!-- /.progress -->
+          </div><!-- /.skill-progress -->
+
+          <div class="skill-progress">
+            <div class="skill-title"><h3>Website Design</h3></div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="85" ><span>85%</span>
+              </div>
+            </div><!-- /.progress -->
+          </div><!-- /.skill-progress -->
+
+          <div class="skill-progress">
+            <div class="skill-title"><h3>Motion Graphic</h3></div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ><span>75%</span>
+              </div>
+            </div><!-- /.progress -->
+          </div><!-- /.skill-progress -->
+
+        </div><!-- /.col-md-6 -->
+      </div><!-- /.row -->
+
+      <div class="skill-chart text-center">
+        <h3>Software Skills</h3>
+      </div>
+
+      <div class="row more-skill text-center">
+        <div class="col-xs-12 col-sm-4 col-md-2">
+            <div class="chart" data-percent="90" data-color="e74c3c">
+                  <span class="percent"></span>
+                  <div class="chart-text">
+                    <span>Sketchup</span>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-2">
+            <div class="chart" data-percent="90" data-color="2ecc71">
+                  <span class="percent"></span>
+                  <div class="chart-text">
+                    <span>Blender</span>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-2">
+            <div class="chart" data-percent="85" data-color="3498db">
+                  <span class="percent"></span>
+                  <div class="chart-text">
+                    <span>Lumion</span>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-2">
+            <div class="chart" data-percent="85" data-color="3498db">
+                  <span class="percent"></span>
+                  <div class="chart-text">
+                    <span>Photoshop</span>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-2">
+            <div class="chart" data-percent="100" data-color="3498db">
+                  <span class="percent"></span>
+                  <div class="chart-text">
+                    <span>Illustrator</span>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-2">
+            <div class="chart" data-percent="80" data-color="3498db">
+                  <span class="percent"></span>
+                  <div class="chart-text">
+                    <span>Premiere</span>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+    </div><!-- /.container -->
+  </section><!-- End Skills Section -->
 
   <!-- Works Section ######################################################################################################### -->
   <section id="works" class="works-section section-padding">
