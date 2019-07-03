@@ -331,14 +331,14 @@ ul.list-check li::before {
 	background:url(../images/home_bg_image05.jpg) no-repeat center center;
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
-	background-color: #222;
+	background-color: #000000;
 	background-size: cover;
 	padding: 0;
 	position: relative;
 }
 #home:before {
 	content: "";
-	background-color: rgba(15, 15, 15, .90);
+	background-color: rgba(15, 15, 15, 0);
 	position: absolute;
 	top: 0;
 	left: 0;
