@@ -668,7 +668,7 @@ Resume Timeline
     top: -8px;
     width: 10px;
     height: 10px;
-    background-color: #e1e1e1;
+    background-color: #000;
     left: 50%;
     margin-left: -6px;
     -webkit-transform: rotate(45deg);
@@ -1055,7 +1055,7 @@ Resume Timeline
 
 /* === Work Section === */
 .works-section {
-    background-color: #f7f7f7;
+    background-color: #000;
 }
 .portfolio-item {
     padding-right: 15px;
