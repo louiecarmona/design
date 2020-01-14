@@ -37,15 +37,15 @@ body{
     line-height: 25px;
     font-weight: 300;
     font-size: 15px;
-    color: #282828;
-    background-color: #000;
+    color:#282828;
+    background-color:#fff;
     -webkit-text-size-adjust: 100%;
     -webkit-overflow-scrolling: touch;
     -webkit-font-smoothing: antialiased !important;
 }
 
 body, html{
-    overflow-x: hidden;
+    overflow-x:hidden;
 }
 
 /* Link style
@@ -92,8 +92,8 @@ a,
 
 .btn,
 .form-control,
-.form-control: hover,
-.form-control: focus,
+.form-control:hover,
+.form-control:focus,
 .navbar-custom .dropdown-menu {
 	-webkit-box-shadow: none;
 			box-shadow: none;
@@ -106,7 +106,7 @@ a,
 
 h1, h2, h3, h4, h5, h6{
     font-weight: 700;
-    margin: 0;
+    margin:0;
     text-transform: uppercase;
 }
 
@@ -134,7 +134,7 @@ h5 {
 }
 
 h6 {
-    font-size: 12px;
+    font-size     : 12px;
 }
 
 
@@ -194,7 +194,7 @@ h6 {
 
 /*btn-primary*/
 .btn-primary{
-    background-color:#000;
+    background-color:#68c3a3;
     border-color: rgba(51, 51, 51, 0.15);
 }
 
@@ -205,13 +205,13 @@ h6 {
 .btn-primary.active,
 .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #000;
+    background-color: #4eb28f;
     border-color: #4eb28f;
 }
 
 /*btn-info*/
 .btn-info{
-    background-color:#000;
+    background-color:#52b3d9;
     border-color: rgba(51, 51, 51, 0.15);
 }
 
@@ -222,7 +222,7 @@ h6 {
 .btn-info.active,
 .open>.dropdown-toggle.btn-info {
     color: #fff;
-    background-color: #000;
+    background-color: #4aa0c2;
     border-color: #4aa0c2;
 }
 
@@ -238,7 +238,7 @@ h6 {
 .btn-default:active,
 .btn-default.active{
     color: #68c3a3;
-    background-color: #000;
+    background-color: #fff;
     border-color: #fff;
 }
 
@@ -328,7 +328,7 @@ ul.list-check li::before {
 
 
 #home {
-	background:url(../images/home_bg_image052.jpg) no-repeat center center;
+	background:url(../images/home_bg_image05.jpg) no-repeat center center;
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	background-color: #000000;
@@ -668,7 +668,7 @@ Resume Timeline
     top: -8px;
     width: 10px;
     height: 10px;
-    background-color: #000;
+    background-color: #e1e1e1;
     left: 50%;
     margin-left: -6px;
     -webkit-transform: rotate(45deg);
@@ -1055,7 +1055,7 @@ Resume Timeline
 
 /* === Work Section === */
 .works-section {
-    background-color: #000;
+    background-color: #f7f7f7;
 }
 .portfolio-item {
     padding-right: 15px;
